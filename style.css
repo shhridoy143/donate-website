@@ -1,0 +1,109 @@
+body {
+    font-family: Open Sans, sans-serif;
+}
+
+.section1 {
+    background-image: url(images/donation13.jpg);
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 1350px 290px;
+
+
+
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(255, 0, 0));
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.section2 {
+    text-align: center;
+    padding: 30px;
+}
+
+#one {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(219, 216, 216), rgb(221, 221, 221));
+    padding: 10px 20px;
+    color: rgb(39, 37, 37);
+}
+
+#two {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 129, 129), rgb(255, 145, 145));
+    padding: 10px 20px;
+    color: rgb(185, 0, 0);
+    border: 1px solid rgb(255, 0, 0);
+}
+
+.display {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.bg1 {
+    background-color: aquamarine;
+    padding: 15px;
+    margin-right: 15px;
+    margin-left: 20px;
+}
+
+.bg2 {
+    background-color: antiquewhite;
+    padding: 15px;
+    margin-right: 15px;
+}
+
+.bg3 {
+    background-color: rgb(248, 212, 168);
+    padding: 15px;
+    margin-right: 20px;
+}
+
+.play {
+    display: flex;
+    background-color: darkblue;
+    color: white;
+    padding: 2%;
+}
+
+.color2 {
+    color: aqua;
+}
+
+.bg {
+    background-color: orange;
+}
+
+.button2 {
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+}
+
+.button3 {
+    background-color: gray;
+    border: 2px solid gray;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.color {
+    color: red;
+}
+
+.margin {
+    margin-bottom: 50px;
+}
